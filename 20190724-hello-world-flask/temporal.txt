@@ -1,5 +1,0 @@
-Abc
-
-Cde.
-
-Erase this file.
