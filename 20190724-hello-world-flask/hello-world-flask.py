@@ -1,3 +1,7 @@
+'''
+Script to run a "Hello World" using Python 3.X and Flask.
+'''
+
 from flask import Flask
 
 app = Flask(__name__)
