@@ -1,4 +1,5 @@
-# Script to understand using meta-classes to set the type of future classes.
+# Script to understand the use of a meta-class to set the type of inheriting classes.
+# Created by Raul Morales Delgado
 # Based on https://stackoverflow.com/a/48846044/11905552
 
 
